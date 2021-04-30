@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Welcome</h2>
+
+<table style="width:12%">
+<tr>
+    <th>Phones</th>
+    <th>Prices</th>
+  </tr>
